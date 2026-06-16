@@ -1,4 +1,4 @@
-# Política de Privacidade do Aplicativo Sorteio Fácil
+# Política de Privacidade do app Sorteio Fácil
 
 **Última atualização: 16 de Junho de 2026**
 
