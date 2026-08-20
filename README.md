@@ -145,10 +145,9 @@ This Policy aligns with applicable transparency and data handling requirements f
 
 We reserve the right to change or update this Privacy Policy at any time. When this happens, the "Last updated" date at the top of this page will be updated. We recommend that you periodically review this Policy to stay informed about how we are protecting your information.
 
-## Contact Us
+## Contact
 
-If you have any questions or concerns about this Privacy Policy, please contact us via email: **codeinnovationmail@gmail.com**.
+If you have any questions or concerns regarding this Privacy Policy, please contact us at: **codeinnovationmail@gmail.com**.
 
 ---
-
-**Note**: This policy reflects that draw data (settings and lists) are stored locally on the device, draw results are not persisted in a database, and ad displays use Google AdMob services in accordance with applicable Google policies.
+*Note: This policy complies with Google Play Console requirements and accurately reflects how the application collects and processes data.*
