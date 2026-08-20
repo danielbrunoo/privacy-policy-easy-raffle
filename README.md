@@ -1,4 +1,4 @@
-# Privacy Policy for the Easy Raffle app
+# Privacy Policy for the Easy Raffle App
 
 **Last updated: August 20, 2026**
 
