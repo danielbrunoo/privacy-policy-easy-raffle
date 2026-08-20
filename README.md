@@ -1,154 +1,154 @@
-# Política de Privacidade do app Sorteio Fácil
+# Privacy Policy for the Easy Raffle app
 
-**Última atualização: 16 de Junho de 2026**
+**Last updated: August 20, 2026**
 
-Esta Política de Privacidade descreve como o **Sorteio Fácil** coleta, usa e compartilha informações quando você utiliza nosso aplicativo de sorteios "Sorteio Fácil". Ao utilizar o nosso Aplicativo, você concorda com as práticas descritas nesta Política de Privacidade.
+This Privacy Policy describes how **Easy Raffle** collects, uses, and shares information when you use our giveaway and draw application "Easy Raffle". By using our Application, you agree to the practices described in this Privacy Policy.
 
-## Informações que Coletamos
+## Information We Collect
 
-### Dados Coletados pelo AdMob (Google Mobile Ads)
+### Data Collected by AdMob (Google Mobile Ads)
 
-Nosso Aplicativo utiliza o **Google AdMob** para exibir anúncios. O AdMob pode coletar e transmitir as seguintes informações para servidores do Google:
+Our Application uses **Google AdMob** to display advertisements. AdMob may collect and transmit the following information to Google servers:
 
-- **ID do dispositivo**: Identificador de publicidade do dispositivo (Advertising ID)
-- **Localização aproximada**: Informações de localização aproximada (quando disponível)
-- **Informações do dispositivo**: Modelo, sistema operacional, versão do sistema
-- **Dados de uso**: Interações com anúncios (cliques, impressões, visualizações de anúncios premiados)
-- **Outros dados técnicos**: Necessários para personalização de anúncios e análise de desempenho
+- **Device ID**: Advertising identifier of the device (Advertising ID)
+- **Approximate location**: Approximate location information (when available)
+- **Device information**: Model, operating system, system version
+- **Usage data**: Interactions with ads (clicks, impressions, rewarded ad views)
+- **Other technical data**: Necessary for ad personalization and performance analysis
 
-**Finalidade**: Esses dados são coletados e compartilhados com o Google (AdMob) exclusivamente para:
+**Purpose**: This data is collected and shared with Google (AdMob) exclusively for:
 
-- Exibição de anúncios em banner e anúncios premiados (rewarded)
-- Análise de desempenho dos anúncios
-- Melhoria dos serviços de publicidade
+- Displaying banner ads and rewarded ads
+- Analyzing ad performance
+- Improving advertising services
 
-**Compartilhamento**: Esses dados são compartilhados com o Google (AdMob), conforme descrito na [Política de Privacidade do Google](https://policies.google.com/privacy).
+**Sharing**: This data is shared with Google (AdMob), as described in the [Google Privacy Policy](https://policies.google.com/privacy).
 
-**Criptografia**: Os dados transmitidos pelo AdMob são criptografados em trânsito usando HTTPS.
+**Encryption**: Data transmitted by AdMob is encrypted in transit using HTTPS.
 
-**Tipos de anúncios no Aplicativo**:
+**Types of ads in the Application**:
 
-- **Anúncios em banner**: exibidos na tela inicial e nas telas de sorteio
-- **Anúncios premiados**: exibidos apenas na categoria **Personalizado**, antes de realizar o sorteio
+- **Banner ads**: displayed on the home screen and draw screens
+- **Rewarded ads**: displayed only in the **Custom** category, before performing the draw
 
-### Dados dos Sorteios (Armazenamento Local)
+### Draw Data (Local Storage)
 
-O Aplicativo permite que você configure e realize sorteios de forma simples e transparente. **Importante**: Todas as informações relacionadas aos seus sorteios são armazenadas **apenas no seu dispositivo**, usando banco de dados local (SQLite).
+The Application allows you to set up and perform draws in a simple and transparent manner. **Important**: All information related to your draws is stored **only on your device**, using a local database (SQLite).
 
-Os dados armazenados localmente podem incluir:
+Locally stored data may include:
 
-- **Configurações de sorteio por categoria** (Números, Nomes, Letras ou Personalizado)
-- **Intervalo numérico** (número inicial e final), na categoria Números
-- **Lista de itens** (nomes, letras ou itens personalizados), nas demais categorias
-- **Data da última atualização** da configuração
+- **Draw settings by category** (Numbers, Names, Letters, or Custom)
+- **Numerical range** (start and end number), in the Numbers category
+- **List of items** (names, letters, or custom items), in the other categories
+- **Date of the last update** of the configuration
 
-**O Aplicativo não armazena permanentemente o resultado de cada sorteio** (vencedor sorteado). O resultado é exibido apenas na tela durante o uso e não é enviado a servidores externos.
+**The Application does not permanently store the result of each draw** (drawn winner). The result is displayed only on the screen during use and is not sent to external servers.
 
-- **Não coletamos** dados de sorteio em servidores próprios
-- **Não transmitimos** suas listas ou configurações para servidores externos
-- **Não compartilhamos** suas informações de sorteio com terceiros
-- **Não requeremos** criação de conta ou login
+- **We do not collect** draw data on our own servers
+- **We do not transmit** your lists or settings to external servers
+- **We do not share** your draw information with third parties
+- **We do not require** account creation or login
 
-Suas configurações e listas permanecem privadas e armazenadas localmente no seu dispositivo.
+Your settings and lists remain private and stored locally on your device.
 
-### Links Externos
+### External Links
 
-O Aplicativo pode abrir links externos no navegador ou na loja de aplicativos, por exemplo:
+The Application may open external links in the browser or app store, for example:
 
-- Página do aplicativo na Google Play Store
-- Página do desenvolvedor **Code Innovation Apps** na Google Play Store
+- App page on the Google Play Store
+- Developer page **Code Innovation Apps** on the Google Play Store
 
-Ao acessar esses links, você será direcionado a serviços de terceiros (Google), que possuem suas próprias políticas de privacidade.
+By accessing these links, you will be directed to third-party services (Google), which have their own privacy policies.
 
-## Funcionalidades do Aplicativo
+## Application Features
 
-O Aplicativo permite realizar sorteios de forma rápida e transparente. As principais funcionalidades incluem:
+The Application allows you to perform draws quickly and transparently. Key features include:
 
-- **Sorteio por Números**: definir um intervalo numérico (de 1 até o número final) e sortear um número
-- **Sorteio por Nomes**: inserir uma lista de nomes e sortear um vencedor
-- **Sorteio por Letras**: inserir uma lista de letras e sortear uma letra
-- **Sorteio Personalizado**: inserir uma lista customizada de itens e sortear um resultado
-- **Editar configuração**: alterar intervalo numérico ou lista de itens já cadastrados
-- **Excluir configuração**: remover a configuração de sorteio de uma categoria
-- **Realizar sorteio**: animação de contagem regressiva e embaralhamento antes de exibir o resultado
-- **Aparência do app**: escolher entre tema Sistema, Claro ou Escuro *(preferência mantida apenas durante o uso; não é persistida após fechar o app)*
-- **Avaliar o aplicativo** e **conhecer outros aplicativos** do desenvolvedor, via links externos
+- **Draw by Numbers**: set a numerical range (from 1 to the final number) and draw a number
+- **Draw by Names**: enter a list of names and draw a winner
+- **Draw by Letters**: enter a list of letters and draw a letter
+- **Custom Draw**: enter a custom list of items and draw a result
+- **Edit settings**: change the numerical range or item list already registered
+- **Delete settings**: remove the draw configuration for a category
+- **Perform draw**: countdown animation and shuffling before displaying the result
+- **App appearance**: choose between System, Light, or Dark theme *(preference maintained only during use; not persisted after closing the app)*
+- **Rate the app** and **discover other apps** from the developer via external links
 
-**Todas as ações de configuração e sorteio são realizadas localmente no dispositivo do usuário**, e nenhum dado de sorteio é enviado ou armazenado em servidores próprios.
+**All configuration and draw actions are performed locally on the user's device**, and no draw data is sent to or stored on our own servers.
 
-## Anúncios
+## Advertisements
 
-Nosso Aplicativo exibe anúncios por meio do **Google AdMob**, uma plataforma de anúncios da Google.
+Our Application displays ads through **Google AdMob**, an advertising platform by Google.
 
-O AdMob coleta informações relacionadas à sua interação com os anúncios e dados do dispositivo (conforme descrito na seção "Informações que Coletamos") para fins de:
+AdMob collects information related to your interaction with ads and device data (as described in the "Information We Collect" section) for the purpose of:
 
-- Personalização de anúncios
-- Análise de desempenho
-- Otimização da experiência publicitária
+- Ad personalization
+- Performance analysis
+- Optimization of the advertising experience
 
-Na categoria **Personalizado**, um anúncio premiado pode ser exibido antes de liberar o sorteio. A visualização do anúncio é opcional no fluxo do aplicativo e segue as políticas do Google AdMob.
+In the **Custom** category, a rewarded ad may be displayed before unlocking the draw. Viewing the ad is optional in the app flow and follows Google AdMob policies.
 
-Para mais informações sobre como o AdMob coleta e usa dados, consulte:
+For more information on how AdMob collects and uses data, please consult:
 
-- [Política de Privacidade do Google](https://policies.google.com/privacy)
-- [Termos do Google AdMob](https://support.google.com/admob/answer/6128543)
+- [Google Privacy Policy](https://policies.google.com/privacy)
+- [Google AdMob Terms](https://support.google.com/admob/answer/6128543)
 
-## Não Coleta de Dados Pessoais Identificáveis
+## No Collection of Personally Identifiable Data
 
-O Aplicativo **não requer** que você forneça informações pessoais identificáveis como:
+The Application **does not require** you to provide personally identifiable information such as:
 
-- Nome completo
-- Endereço de e-mail
-- Número de telefone
-- Dados de pagamento ou cartão de crédito
-- Informações bancárias
+- Full name
+- Email address
+- Phone number
+- Payment or credit card details
+- Banking information
 
-**Não coletamos, armazenamos ou compartilhamos** dados pessoais identificáveis em servidores próprios.
+**We do not collect, store, or share** personally identifiable data on our own servers.
 
-**Nota**: O usuário pode digitar livremente nomes ou itens nas listas de sorteio (por exemplo, nomes de pessoas). Esses dados são inseridos voluntariamente pelo usuário e ficam **apenas no dispositivo**. O desenvolvedor não tem acesso a esse conteúdo.
+**Note**: Users can freely type names or items into the draw lists (for example, names of people). This data is entered voluntarily by the user and remains **only on the device**. The developer has no access to this content.
 
-## Permissões do Aplicativo
+## Application Permissions
 
-O Aplicativo solicita as seguintes permissões no Android:
+The Application requests the following permissions on Android:
 
-- **INTERNET**: necessária para carregar e exibir anúncios do Google AdMob e abrir links externos (Google Play Store)
+- **INTERNET**: required to load and display Google AdMob ads and open external links (Google Play Store)
 
-O Aplicativo **não solicita** acesso a localização, câmera, microfone, contatos ou armazenamento externo para funcionamento das funcionalidades de sorteio.
+The Application **does not request** access to location, camera, microphone, contacts, or external storage for the operation of the draw features.
 
-## Segurança
+## Security
 
-Embora o Sorteio Fácil armazene suas configurações e listas apenas localmente no dispositivo, recomendamos que os usuários adotem boas práticas de segurança:
+Although Sorteio Fácil stores your settings and lists only locally on the device, we recommend that users adopt good security practices:
 
-- Manter o dispositivo protegido com senhas, PIN ou outras formas de autenticação
-- Fazer backup regular dos dados do dispositivo
-- Manter o sistema operacional e o aplicativo atualizados
-- Não compartilhar o dispositivo com pessoas não autorizadas
-- Evitar inserir informações sensíveis nas listas de sorteio, se não desejar que fiquem no dispositivo
+- Keep the device protected with passwords, PIN, or other forms of authentication
+- Regularly back up device data
+- Keep the operating system and application updated
+- Do not share the device with unauthorized persons
+- Avoid entering sensitive information into draw lists if you do not wish for it to remain on the device
 
-## Seus Direitos
+## Your Rights
 
-Você tem o direito de:
+You have the right to:
 
-- **Desativar anúncios personalizados**: Você pode desativar a personalização de anúncios nas configurações do seu dispositivo Android
-- **Gerenciar seus dados**: Como todos os dados de sorteio ficam no seu dispositivo, você tem controle total sobre eles (editar, excluir ou reinstalar o app)
-- **Desinstalar o aplicativo**: Você pode desinstalar o aplicativo a qualquer momento, o que removerá os dados locais do app no dispositivo
+- **Disable personalized ads**: You can disable ad personalization in your Android device settings
+- **Manage your data**: Since all draw data remains on your device, you have full control over it (edit, delete, or reinstall the app)
+- **Uninstall the application**: You can uninstall the app at any time, which will remove local app data from the device
 
-## Conformidade com Políticas do Google
+## Compliance with Google Policies
 
-Esta Política está alinhada com os requisitos aplicáveis de transparência e tratamento de dados para apps publicados na Google Play, incluindo:
+This Policy aligns with applicable transparency and data handling requirements for apps published on Google Play, including:
 
-- [Política de Dados do Usuário da Google Play](https://support.google.com/googleplay/android-developer/answer/10144311)
-- [Central de Segurança de Dados (Google Play)](https://support.google.com/googleplay/android-developer/answer/10787469)
-- [Políticas do Google Ads e AdMob](https://support.google.com/admob/answer/6128543)
+- [Google Play User Data Policy](https://support.google.com/googleplay/android-developer/answer/10144311)
+- [Data Safety Section (Google Play)](https://support.google.com/googleplay/android-developer/answer/10787469)
+- [Google Ads and AdMob Policies](https://support.google.com/admob/answer/6128543)
 
-## Alterações nesta Política de Privacidade
+## Changes to this Privacy Policy
 
-Reservamo-nos o direito de alterar ou atualizar esta Política de Privacidade a qualquer momento. Quando isso acontecer, a data da "Última atualização" no topo desta página será alterada. Recomendamos que você revise periodicamente esta Política para se manter informado sobre como estamos protegendo suas informações.
+We reserve the right to change or update this Privacy Policy at any time. When this happens, the "Last updated" date at the top of this page will be updated. We recommend that you periodically review this Policy to stay informed about how we are protecting your information.
 
-## Contato
+## Contact Us
 
-Se você tiver alguma dúvida ou preocupação sobre esta Política de Privacidade, entre em contato conosco por meio do e-mail: **codeinnovationmail@gmail.com**.
+If you have any questions or concerns about this Privacy Policy, please contact us via email: **codeinnovationmail@gmail.com**.
 
 ---
 
-**Nota**: Esta política reflete que os dados de sorteio (configurações e listas) são armazenados localmente no dispositivo, que os resultados dos sorteios não são persistidos em banco de dados, e que a exibição de anúncios utiliza serviços do Google AdMob conforme as políticas aplicáveis do Google.
+**Note**: This policy reflects that draw data (settings and lists) are stored locally on the device, draw results are not persisted in a database, and ad displays use Google AdMob services in accordance with applicable Google policies.
