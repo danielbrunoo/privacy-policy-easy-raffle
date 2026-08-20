@@ -117,7 +117,7 @@ The Application **does not request** access to location, camera, microphone, con
 
 ## Security
 
-Although Sorteio Fácil stores your settings and lists only locally on the device, we recommend that users adopt good security practices:
+Although Easy Raffle stores your settings and lists only locally on the device, we recommend that users adopt good security practices:
 
 - Keep the device protected with passwords, PIN, or other forms of authentication
 - Regularly back up device data
